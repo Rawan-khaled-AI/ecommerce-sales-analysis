@@ -15,11 +15,6 @@ This project analyzes various e-commerce sales CSV reports (Amazon, internationa
 - Matplotlib
 - Jupyter Notebook
 
-## 📁 Dataset:
-Confidential company sales reports (not publicly shared)
-
-## 📸 Sample Visualization:
-![Sample Output](sample_output.png)
 
 ## 👩‍💻 Created by:
 Rawan Khaled – Freelance Data Analyst
